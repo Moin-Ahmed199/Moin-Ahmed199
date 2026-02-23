@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Moin Ahmed<br><br>💻 Full-Stack Web Developer, I specialize in crafting custom websites, <br>web apps, and smooth user interfaces.<br><br>🚀 What I Do:<br><br>🌐 Full-stack Web & App Development<br><br>⚛️ React, REST APIs, PHP, MySQL<br><br>🎨 UI/UX Design (Figma)<br><br>⭐ Crafting responsive, user-friendly, and business-focused solutions<br><br>📈 Helping individuals & businesses grow their online presence<br><br>🌍 Helping students learn to code through YouTube tutorials and real-world sessions.
+👋 Hi, I’m Moin Ahmed Founder of "CodeWithMoin"<br><br>💻 Full-Stack Web Developer, I specialize in crafting custom websites, <br>web apps, and smooth user interfaces.<br><br>🚀 What I Do:<br><br>🌐 Full-stack Web & App Development<br><br>⚛️ React, REST APIs, PHP, MySQL<br><br>🎨 UI/UX Design (Figma)<br><br>⭐ Crafting responsive, user-friendly, and business-focused solutions<br><br>📈 Helping individuals & businesses grow their online presence<br><br>🌍 Helping students learn to code through YouTube tutorials and real-world sessions.
 
 
 ## 🌐 Socials:
